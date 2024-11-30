@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Classens;Niels ;;;
+FN;CHARSET=UTF-8:Niels  Classens
+ORG;CHARSET=UTF-8:ClassTech-Engineering
+TITLE:Owner and Founder
+NOTE:I specialize in complex integration issues, R&D development projects and the creation of unique proof of concept prototypes within the Mechatronics domain and related fields.
+
+In short - I like to take on a challenge.
+EMAIL;CHARSET=UTF-8;type=Email,INTERNET:info@classtechengineering.com
+TEL;TYPE=Phone:+31630658636
+ADR;TYPE=Address;CHARSET=utf-8:;;Timmermannsweg  89;Ysselsteyn ;;5813AM;Netherlands
+URL;TYPE=Business card:https://connectflow.app/p/TjzbVkbQ
+URL;TYPE=Update Niels :https://connectflow.app/p/TjzbVkbQ/save
+X-ABDATE;TYPE=Date connected:20241130
+END:VCARD
